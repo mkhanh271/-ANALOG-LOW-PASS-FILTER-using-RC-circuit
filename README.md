@@ -3,7 +3,7 @@
 > A two-stage **analog low-pass filter** designed with a **Sallen-Key active topology** (Stage 1) cascaded with a **passive RC + non-inverting amplifier** (Stage 2), targeting a **−3 dB cutoff at 20 kHz**. The circuit is simulated in **Proteus** and analyzed mathematically in **MATLAB**.
 
 ---
-## This is my group project , everything is optimized and good to run , good luck !
+## This is my group project , everything is optimized and good to run , just download all files and run. GOOD LUCK !
 
 ## 📋 Table of Contents
 
